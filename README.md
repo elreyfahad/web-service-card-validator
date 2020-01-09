@@ -1,0 +1,2 @@
+# Project Web Service REST Card Validator 
+Construiction d'un RESTFul API avec **JAX-RS** pour la validation des numero d'une carte de credit
